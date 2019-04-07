@@ -1,0 +1,60 @@
+5.- Defectos
+	5.1 Introduccion al Defecto
+		5.1.1 Que es un Defecto:
+			- Es una diferencia entre el resultado esperado del caso de prueba contra el resultado actual que muestra el sistema
+			- Es un error funcional del codigo
+		5.1.2 Que no es un Defecto:
+			- Falta de Datos
+			- Falla por una mala configuracion del ambiente
+			- No saber como funciona el sistema y los casos son ambiguos
+	5.2 Defectos Accionables
+		5.2.1 Como levantar un Defecto:
+			- Se debe de llenar la plantilla de Excel o Word 
+		5.2.2 Datos de una plantilla de Defectos
+			- Son muchos pero creo que los mas relevantes son:
+				- ID Bug
+				- Estatus
+				- Prioridad
+				- Severidad
+				- etc...
+		5.2.3 Que es un Defecto Accionable
+			- Es poder llenar bien la plantilla para que el desarrollador encargado realize las correcciones necesarias
+		5.2.4 Checklist para generar el Defecto
+			- Ver si el defecto es funcional o de ambiente
+			- Reproducir el error
+			- Tomar evidencia
+			- Documentar los pasos
+			- Documentar el defecto
+			- Darle seguimiente hasta que el desarrollador lo corrigio
+		5.2.5 Severidad vs Prioridad en un Defecto
+			- Ambas tienen la clasificacion de Baja, Media, Alta y Bloqueante
+			- La severidad es de impacto absoluto en el desarrollo  y la prioridad es la importancia al usuario/cliente
+	5.3 Evidencias de los Defectos
+		5.3.1 Formato de Evidencias
+			- Dentro de todos los mas importantes son:
+				- Proyecto
+				- Ejecutor de Pruebas
+				- Ciclo de prueba
+				- etc...
+	5.4 Ciclo Vida Defecto
+		- Reportar la falla
+		- Enviar la falla al desarrollafor 
+		- El desarrollador la corrige
+		- El tester revisa de nuevo la falla para ver si esta corregida
+		- El tester aprueba o rechaza 
+		- Fin
+	5.5 Matriz o Herramienta para los Defectos
+		5.5.1 Matriz de Defectos
+			- Debe de contener al menos estos que son los mas importantes:
+				- Proyecto 
+				- ID Proyecto
+				- Fecha 
+				- Son muy parecidos a la plantilla de defectos
+				- etc...
+		5.5.2 Herramienta de Gestion de Defectos
+			- Se debe de por generar consultas para poder ver los defectos
+			- Debe de tener filtros utilizando los indicadores antes mencionados
+			- Poder crear nuevos defectos
+			- Y poder ver los defectos
+			
+			
